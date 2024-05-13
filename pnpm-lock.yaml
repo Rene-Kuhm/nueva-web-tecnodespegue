@@ -56,8 +56,8 @@ devDependencies:
     specifier: ^0.5.7
     version: 0.5.7(tailwindcss@3.4.3)
   astro-vtbot:
-    specifier: ^1.7.2
-    version: 1.7.7
+    specifier: ^1.7.17
+    version: 1.7.17
   prettier:
     specifier: ^3.2.5
     version: 3.2.5
@@ -1862,8 +1862,8 @@ packages:
       remark-expressive-code: 0.33.5
     dev: false
 
-  /astro-vtbot@1.7.7:
-    resolution: {integrity: sha512-MGyLVLAhP3SeIh44mqKLVmlpzpxf3Lv6CGxgX0nxxzNlMu8zQdLDwQnwOA2FZH7iwCzB04hP8kl5WD35mI+bBA==}
+  /astro-vtbot@1.7.17:
+    resolution: {integrity: sha512-DWArck5gK03xXsm7weVFYBVA09Z0WFhyOZIf/Rk/uDQPp4pqIQYadZdE9cnA7gcfyoYSNJIwexJAx7tmC8x3zg==}
     dev: true
 
   /astro@4.6.0(typescript@5.4.5):
